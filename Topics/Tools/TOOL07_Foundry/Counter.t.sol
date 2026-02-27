@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.34;
 
 import "forge-std/Test.sol";        // 引入 forge-std 中用于测试的依赖
 import "../src/Counter.sol";        // 引入用于测试的业务合约

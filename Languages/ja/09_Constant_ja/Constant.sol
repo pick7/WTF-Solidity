@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 contract Constant {
 	// The constant variable must be initialized when declared and cannot be changed after that
     //（constant変数は宣言時に初期化され、その後で変更することは出来ない）

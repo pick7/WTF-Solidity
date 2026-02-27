@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.34;
 contract Bank {
     address public owner;//记录合约的拥有者
 

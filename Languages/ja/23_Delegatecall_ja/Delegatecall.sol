@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 // delegatecallはcallと似ており、低レベル関数である
 // callの場合、BがCをcallすると、コンテキストはCとなる。（msg.sender = B, Cの中の状態変数は影響を受ける）

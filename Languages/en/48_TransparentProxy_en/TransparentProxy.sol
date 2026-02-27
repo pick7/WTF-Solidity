@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // wtf.academy
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 // selector clash example
 // uncomment the two lines of code, the contract fails to compile, because the selector of these two functions are identical

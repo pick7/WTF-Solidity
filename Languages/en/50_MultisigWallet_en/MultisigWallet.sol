@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // author: @0xAA_Science from wtf.academy
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 /// 基于签名的多签钱包，由gnosis safe合约简化而来，教学使用。
 contract MultisigWallet {

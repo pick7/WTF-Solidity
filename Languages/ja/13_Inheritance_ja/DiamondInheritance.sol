@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.34;
 
 /* Inheritance tree（継承ツリー）：
   God

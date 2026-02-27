@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.15;
+pragma solidity ^0.8.34;
 contract Mapping {
       mapping(uint => address) public idToAddress; // id es mapeado a la dirección
       mapping(address => address) public swapPair; // mapeo de tokens, de dirección a dirección

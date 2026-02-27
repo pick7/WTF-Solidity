@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 // Autor: 0xAA da WTF Academy
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.34;
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";

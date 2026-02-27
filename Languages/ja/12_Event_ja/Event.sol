@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 contract Events {
     // define _balances mapping variable to record number of tokens held at each address
     //（各アドレスで保有されているトークン数を記録するmapping変数として_balanceを定義します）

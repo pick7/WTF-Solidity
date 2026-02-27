@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // english translation by 22X
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 import "forge-std/Test.sol";
 import "forge-std/console.sol";
 import "../src/Oracle.sol";

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // por 0xAA
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 contract Bank {
     // Mapeamento de saldo

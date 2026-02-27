@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // english translation by 22X
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.34;
 contract Bank {
     address public owner; // Records the owner of the contract
 
