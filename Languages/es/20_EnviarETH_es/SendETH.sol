@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 // 3 Formas de enviar ETH
 // transfer: 2300 gas, revertir

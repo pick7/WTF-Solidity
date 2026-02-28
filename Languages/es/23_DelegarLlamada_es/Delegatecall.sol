@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 // delegatecall es similar a call, es una función de bajo nivel
 // call: B llama a C, el contexto de ejecución es C (msg.sender = B, las variables de estado de C se ven afectadas)

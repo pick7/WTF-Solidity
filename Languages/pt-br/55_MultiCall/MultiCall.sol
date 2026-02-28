@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.34;
 
 contract Multicall {
     // Estrutura Call, contendo o contrato alvo (target), se é permitido falha na chamada (allowFailure) e os dados da chamada (call data)

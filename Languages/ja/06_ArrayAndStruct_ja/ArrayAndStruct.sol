@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 contract ArrayTypes {
 
     // Fixed Length Array（固定長配列）
@@ -33,7 +33,7 @@ contract ArrayTypes {
     }
 }
 
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 contract StructTypes {
     // Struct（構造体）
     struct Student{

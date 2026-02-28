@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.34;
 
 // Interface do receptor ERC721: o contrato deve implementar esta interface para receber transferências seguras de ERC721
 interface IERC721Receiver {

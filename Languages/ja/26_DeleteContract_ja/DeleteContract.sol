@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.21;
+pragma solidity ^0.8.34;
 
 // selfdestruct: コントラクトを削除し、残りのETHを指定したアドレスに送金
 
